@@ -2,3 +2,7 @@ esse arquivo contém comandos secundários de git
 
 # Comandos mais genéricos
 - comando estranho
+Mais comandos!!!
+skdfnsfs
+ndsfjksfns
+sdnfksd
